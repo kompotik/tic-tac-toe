@@ -33,4 +33,4 @@ function makeStep(indexString, indexCell) {
   }
 }
 
-console.log(field);
+console.log('my', field);
